@@ -1,4 +1,4 @@
-# The Intersection of Indigenous Identity and Educational Attainment in Mexico
+# 🎓 The Intersection of Indigenous Identity and Educational Attainment in Mexico 🇲🇽
 
 This data analytics project aims to explore the distribution of the population in Mexico that either speaks an indigenous language or identifies 
 as indigenous, and analyze how this demographic characteristic correlates with levels of education. Indigenous populations in Mexico represent a 
