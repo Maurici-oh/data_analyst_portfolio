@@ -18,9 +18,9 @@ CREATE TABLE silver.location (
 	ENTIDAD			INT,
 	NOM_ENT			NVARCHAR(50),
 	region			NVARCHAR(50),
-	MUN				INT,
+	MUN			INT,
 	NOM_MUN			NVARCHAR(100),
-	LOC				INT,
+	LOC			INT,
 	NOM_LOC			NVARCHAR(100),
 	LONGITUD		FLOAT,
 	LATITUD			FLOAT,
@@ -35,8 +35,8 @@ GO
 
 CREATE TABLE silver.population (
 	ENTIDAD			INT,
-	MUN				INT,
-	LOC				INT,
+	MUN			INT,
+	LOC			INT,
 	POBTOT			INT,
 	POBFEM			INT,
 	POBMAS			INT,
@@ -56,8 +56,8 @@ GO
 
 CREATE TABLE silver.indigenous (
 	ENTIDAD			INT,
-	MUN				INT,
-	LOC				INT,
+	MUN			INT,
+	LOC			INT,
 	PHOG_IND		INT,
 	P3YM_HLI		INT,
 	P3HLINHE		INT,
@@ -75,8 +75,8 @@ GO
 
 CREATE TABLE silver.education (
 	ENTIDAD			INT,
-	MUN				INT,
-	LOC				INT,
+	MUN			INT,
+	LOC			INT,
 	P15YM_AN		INT,
 	P15YM_SE		INT,
 	P15PRI_IN		INT,
