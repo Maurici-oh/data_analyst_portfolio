@@ -26,6 +26,7 @@ SELECT
 	locality_index AS idx,
 	ENTIDAD AS state_id,
 	NOM_ENT AS state,
+	state_abbreviation,
 	region,
 	NOM_MUN AS municipality,
 	NOM_LOC AS locality
@@ -116,6 +117,7 @@ SELECT
 	loc.locality_index AS idx,
 	loc.ENTIDAD AS state_id,
 	loc.NOM_ENT AS state,
+	loc.state_abbreviation,
 	loc.region,
 	loc.NOM_MUN AS municipality,
 	loc.NOM_LOC AS locality,
