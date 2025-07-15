@@ -21,10 +21,10 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 * **Data Sources**: The dataset used in this project comes from the INEGI 2020 Population and Housing Census.
 [INEGI open data](https://www.inegi.org.mx/datosabiertos/)
 
-The route to acces the data is the following:
-
-Informacion Demografica y Social > Censos y Conteos > Censos y Conteos de Poblacion y vivienda >
-2020 > Principales resultados por localidad (ITER) > Estados Unidos Mexicanos
+  The route to acces the data is the following:
+  
+  Informacion Demografica y Social > Censos y Conteos > Censos y Conteos de Poblacion y vivienda >
+  2020 > Principales resultados por localidad (ITER) > Estados Unidos Mexicanos
 
 * **Data Quality**: Cleanse and trim the dataset for easy handling and processing.
 * **Documentation**: Provide clear documentation of the data model to support both business stakeholderd and analytics teams.
