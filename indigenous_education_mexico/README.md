@@ -11,3 +11,8 @@ and self-identification across different states and regions, and quantifies the 
 By visualizing and modeling this relationship, the project seeks to provide insights into how ethnicity and language are associated with educational 
 outcomes in Mexico. These insights can inform policymakers, researchers, and social organizations aiming to reduce educational inequality and support 
 the inclusion and empowerment of indigenous populations.
+
+### Data Source
+The dataset used in this project comes from the INEGI 2020 Population and Housing Census.
+[INEGI open data](https://www.inegi.org.mx/datosabiertos/)
+
