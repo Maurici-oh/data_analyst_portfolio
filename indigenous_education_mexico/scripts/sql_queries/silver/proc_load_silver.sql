@@ -39,6 +39,7 @@ BEGIN
 		INSERT INTO silver.location (
 			ENTIDAD,
 			NOM_ENT,
+			state_abbreviation,
 			region,
 			MUN,
 			NOM_MUN,
@@ -51,6 +52,41 @@ BEGIN
 		SELECT
 			ENTIDAD,
 			NOM_ENT,
+			CASE NOM_ENT
+				WHEN 'Aguascalientes' THEN 'AGU'
+				WHEN 'Baja California' THEN 'BCN'
+				WHEN 'Baja California Sur' THEN 'BCS'
+				WHEN 'Campeche' THEN 'CAM'
+				WHEN 'Chiapas' THEN 'CHP'
+				WHEN 'Chihuahua' THEN 'CHH'
+				WHEN 'Ciudad de Mexico' THEN 'CMX'
+				WHEN 'Coahuila de Zaragoza' THEN 'COA'
+				WHEN 'Colima' THEN 'COL'
+				WHEN 'Durango' THEN 'DUR'
+				WHEN 'Guanajuato' THEN 'GUA'
+				WHEN 'Guerrero' THEN 'GRO'
+				WHEN 'Hidalgo' THEN 'HID'
+				WHEN 'Jalisco' THEN 'JAL'
+				WHEN 'Mexico' THEN 'MEX'
+				WHEN 'Michoacan de Ocampo' THEN 'MIC'
+				WHEN 'Morelos' THEN 'MOR'
+				WHEN 'Nayarit' THEN 'NAY'
+				WHEN 'Nuevo Leon' THEN 'NLE'
+				WHEN 'Oaxaca' THEN 'OAX'
+				WHEN 'Puebla' THEN 'PUE'
+				WHEN 'Queretaro' THEN 'QUE'
+				WHEN 'Quintana Roo' THEN 'ROO'
+				WHEN 'San Luis Potosi' THEN 'SLP'
+				WHEN 'Sinaloa' THEN 'SIN'
+				WHEN 'Sonora' THEN 'SON'
+				WHEN 'Tabasco' THEN 'TAB'
+				WHEN 'Tamaulipas' THEN 'TAM'
+				WHEN 'Tlaxcala' THEN 'TLA'
+				WHEN 'Veracruz de Ignacio de la Llave' THEN 'VER'
+				WHEN 'Yucatan' THEN 'YUC'
+				WHEN 'Zacatecas' THEN 'ZAC'
+				ELSE 'Total'
+			END AS state_abbreviation,
 			CASE 
 				WHEN ENTIDAD IN (2, 3, 25, 26) THEN 'Northwest'
 				WHEN ENTIDAD IN (8, 5, 10, 19, 28) THEN 'Northeast'
