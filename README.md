@@ -3,8 +3,8 @@ This repository showcases a curated collection of data analysis projects that de
 
 
 ## Table of Contents
-- [Go to the Introduction](#SQL-Data-Warehouse-Project)
-- [Read about Advanced Topics](#The Intersection of Indigenous Identity and Educational Attainment in Mexico)
+- [SQL Data Warehouse Project](#SQL-Data-Warehouse-Project)
+- [The Intersection of Indigenous Identity and Educational Attainment in Mexico](#The-Intersection-of-Indigenous-Identity-and-Educational-Attainment-in-Mexico)
 - [See the Conclusion](#conclusion)
 
 ---
