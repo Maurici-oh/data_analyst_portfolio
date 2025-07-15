@@ -17,6 +17,7 @@ GO
 CREATE TABLE silver.location (
 	ENTIDAD			INT,
 	NOM_ENT			NVARCHAR(50),
+	state_abbreviation	NVARCHAR(10),
 	region			NVARCHAR(50),
 	MUN			INT,
 	NOM_MUN			NVARCHAR(100),
