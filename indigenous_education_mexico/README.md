@@ -8,7 +8,9 @@ demographic, and educational trends among indigenous communities. The analysis f
 
 By visualizing and modeling this relationship, the project seeks to provide insights into how ethnicity and language are associated with educational outcomes in Mexico. These insights can inform policymakers, researchers, and social organizations aiming to reduce educational inequality and support the inclusion and empowerment of indigenous populations.
 
-<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/1de38015fb8c6a088af97fa75dc650fd0aedadb8/indigenous_education_mexico/docs/img/map2.png" alt="alt text" width="400" height="300">
+<div style="text-align: center;">
+  <img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/1de38015fb8c6a088af97fa75dc650fd0aedadb8/indigenous_education_mexico/docs/img/map2.png" alt="alt text" width="400" height="300">
+</div>
 
 ## 📊 Project Overview
 **Objective**  
