@@ -8,6 +8,8 @@ demographic, and educational trends among indigenous communities. The analysis f
 
 By visualizing and modeling this relationship, the project seeks to provide insights into how ethnicity and language are associated with educational outcomes in Mexico. These insights can inform policymakers, researchers, and social organizations aiming to reduce educational inequality and support the inclusion and empowerment of indigenous populations.
 
+![alt text]([http://url/to/img.png](https://github.com/Maurici-oh/data_analyst_portfolio/blob/main/indigenous_education_mexico/docs/img/map1.png))
+
 ## 📊 Project Overview
 **Objective** 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision making.
