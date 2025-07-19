@@ -69,10 +69,11 @@ By visualizing and modeling this relationship, the project seeks to provide insi
 
 * **Documentation**: Provide clear documentation of the data model to support both business stakeholderd and analytics teams.
 
-## 📈 BI: Analytics & Reporting (Data Analytics)
-**Objective**  
+## 📈 Visualuzation & Dashboard
+To visualize the data and findings I created a Tableau dashboard that can be found in Tableau Public.
+[Indigenous Distribution and Education in Mexico](https://public.tableau.com/views/Indigenous_Population_Distribution_and_Education/IndigenousDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-To be added.....
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/3e5c6d626a374452760efad17a6d5db8806f8523/indigenous_education_mexico/docs/img/Indigenous_Dashboard.png" alt="alt text" width="400" height="300">
 
 ## 💡 Findings and Conclusions
 The analysis revealed a clear and concerning correlation: regions with higher concentrations of Indigenous communities (specifically southern states) tend to experience significantly higher rates of illiteracy and a greater proportion of individuals with no formal schooling. This pattern is evident in states such as Oaxaca, Chiapas, and Guerrero. However, Quintana Roo stands out as an exception, with a high concentration of Indigenous communities and one of the highest rates of higher education in the country.
