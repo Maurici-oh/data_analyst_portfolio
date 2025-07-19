@@ -10,6 +10,8 @@ By visualizing and modeling this relationship, the project seeks to provide insi
 
 ![image alt](https://github.com/Maurici-oh/data_analyst_portfolio/blob/3e18973d7cfaa6246b49df175afe30886dae472f/indigenous_education_mexico/docs/img/map1.png)
 
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/3e18973d7cfaa6246b49df175afe30886dae472f/indigenous_education_mexico/docs/img/map1.png" alt="alt text" width="400" height="300">
+
 ## 📊 Project Overview
 **Objective**  
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision making.
