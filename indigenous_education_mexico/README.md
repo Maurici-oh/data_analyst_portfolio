@@ -21,13 +21,15 @@ By visualizing and modeling this relationship, the project seeks to provide insi
 [INEGI open data](https://www.inegi.org.mx/datosabiertos/)
 
   The route to acces the data is the following:
-  
+
+<pre>
   **Informacion Demografica y Social**
       └──Censos y Conteos 
         └──Censos y Conteos de Poblacion y vivienda 
           └──2020  
             └──Principales resultados por localidad (ITER) 
               └──Estados Unidos Mexicanos
+</pre>
   
   Informacion Demografica y Social > Censos y Conteos > Censos y Conteos de Poblacion y vivienda >
   2020 > Principales resultados por localidad (ITER) > Estados Unidos Mexicanos
