@@ -78,7 +78,8 @@ To be added.....
 The analysis revealed a clear and concerning correlation: regions with higher concentrations of Indigenous communities (specifically southern states) tend to experience significantly higher rates of illiteracy and a greater proportion of individuals with no formal schooling. This pattern is evident in states such as Oaxaca, Chiapas, and Guerrero. However, Quintana Roo stands out as an exception, with a high concentration of Indigenous communities and one of the highest rates of higher education in the country.
 
 <img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/d702f69228991b618245b81071595504573cf833/indigenous_education_mexico/docs/img/map3.png" alt="alt text" width="400" height="300">
-**Yellow = High Illiteracy Percentage**
+**Yellow** = High Illiteracy Percentage
+
 
 These findings underscore the persistent educational disparities affecting Indigenous populations in Mexico, highlighting the need for more inclusive and culturally responsive educational policies. Addressing these systemic inequalities is not only a matter of social justice but also essential for promoting equitable development and opportunity across all regions of the country.
 
