@@ -31,10 +31,42 @@ By visualizing and modeling this relationship, the project seeks to provide insi
                 └──Estados Unidos Mexicanos
   </pre>
   
-  Informacion Demografica y Social > Censos y Conteos > Censos y Conteos de Poblacion y vivienda >
-  2020 > Principales resultados por localidad (ITER) > Estados Unidos Mexicanos
+* **Folder Structure**
+  <pre>
+  indigenous_education_mexico/  
+  ├── docs/ 
+  │   └── img/
+  │   │   ├── map1.png
+  │   │   └── map2.png
+  │   └── INEGI_iter_cpv2020_Data_Catalog.pdf
+  │
+  ├── scripts/
+  │   ├── jupyter_notebooks/  
+  │   │   ├── table_education_cpv2020.ipynb
+  │   │   ├── table_indegenous_cpv2020.ipynb
+  │   │   ├── table_location_cpv2020.ipynb
+  │   │   └── table_population_cpv2020.ipynb
+  │   │
+  │   ├── python/ 
+  │   │   └── sql_to_csv_export.py
+  │   │
+  │   └── sql_queries/ 
+  │       ├── bronze/ 
+  │       │   ├── dll_bronze.sql
+  │       │   └── proc_load_bronze.sql
+  │       ├── silver/ 
+  │       │   ├── dll_silver.sql
+  │       │   └── proc_load_silver.sql
+  │       ├── gold/ 
+  │       │   └── ddl_gold.sql
+  │       │
+  │       └── init_database.sql
+  │
+  ├── tableau/
+  │
+  └── README.md
+  </pre>
 
-* **Data Quality**: Cleanse and trim the dataset for easy handling and processing.
 * **Documentation**: Provide clear documentation of the data model to support both business stakeholderd and analytics teams.
 
 ## 📈 BI: Analytics & Reporting (Data Analytics)
@@ -42,9 +74,20 @@ By visualizing and modeling this relationship, the project seeks to provide insi
 
 To be added.....
 
+## 💡 Findings and Conclusions
+The analysis revealed a clear and concerning correlation: regions with higher concentrations of Indigenous communities (specifically southern states) tend to experience significantly higher rates of illiteracy and a greater proportion of individuals with no formal schooling. This pattern is evident in states such as Oaxaca, Chiapas, and Guerrero. However, Quintana Roo stands out as an exception, with a high concentration of Indigenous communities and one of the highest rates of higher education in the country.
+
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/d702f69228991b618245b81071595504573cf833/indigenous_education_mexico/docs/img/map3.png" alt="alt text" width="400" height="300">
+**Yellow = High Illiteracy Percentage**
+
+These findings underscore the persistent educational disparities affecting Indigenous populations in Mexico, highlighting the need for more inclusive and culturally responsive educational policies. Addressing these systemic inequalities is not only a matter of social justice but also essential for promoting equitable development and opportunity across all regions of the country.
+
+Future research and action should aim to better understand the root causes of these disparities and support interventions that respect Indigenous cultures while improving access to quality education.
+
 ## 🛠️ Tech Stack
 
-* **Jupyter Notebook**  
+* **Jupyter Notebook**
+* **Google Sheets**
 * **Python** 
 * **SQL Server**  
 * **Tableau**  
