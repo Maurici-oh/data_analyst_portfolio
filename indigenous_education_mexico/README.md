@@ -70,7 +70,7 @@ By visualizing and modeling this relationship, the project seeks to provide insi
 * **Documentation**: Provide clear documentation of the data model to support both business stakeholderd and analytics teams.
 
 ## 📈 Visualuzation & Dashboard
-To visualize the data and findings I created a Tableau dashboard that can be found in Tableau Public.  
+To present the data and insights effectively, I created an interactive Tableau dashboard, available on Tableau Public.   
 [Indigenous Distribution and Education in Mexico](https://public.tableau.com/views/Indigenous_Population_Distribution_and_Education/IndigenousDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/3e5c6d626a374452760efad17a6d5db8806f8523/indigenous_education_mexico/docs/img/Indigenous_Dashboard.png" alt="alt text" width="400" height="300">
