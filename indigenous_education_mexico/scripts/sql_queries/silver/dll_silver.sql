@@ -25,7 +25,7 @@ CREATE TABLE silver.location (
 	NOM_LOC			NVARCHAR(100),
 	LONGITUD		FLOAT,
 	LATITUD			FLOAT,
-	locality_index	INT
+	locality_index		INT
 );
 
 GO
@@ -47,7 +47,7 @@ CREATE TABLE silver.population (
 	P_5YMAS			INT, 
 	P_15YMAS		INT,
 	P_18YMAS		INT,
-	locality_index	INT
+	locality_index		INT
 );
 GO
 
@@ -66,7 +66,7 @@ CREATE TABLE silver.indigenous (
 	P5_HLI			INT,
 	P5_HLI_NHE		INT,
 	P5_HLI_HE		INT,
-	locality_index	INT,
+	locality_index		INT
 );
 GO
 
@@ -88,6 +88,6 @@ CREATE TABLE silver.education (
 	GRAPROES		FLOAT,
 	GRAPROES_F		FLOAT,
 	GRAPROES_M		FLOAT,
-	locality_index	INT
+	locality_index		INT
 );
 GO
