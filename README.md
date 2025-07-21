@@ -4,7 +4,7 @@ This repository showcases a curated collection of data analysis projects that de
 
 ## Table of Contents
 - [The Intersection of Indigenous Identity and Educational Attainment in Mexico](#The-Intersection-of-Indigenous-Identity-and-Educational-Attainment-in-Mexico)
-- [SQL Data Warehouse Project](#SQL-Data-Warehouse-Project)
+- [Modern Data Warehousing with SQL Server](#SQL-Data-Warehouse-Project)
 
 
 ---
