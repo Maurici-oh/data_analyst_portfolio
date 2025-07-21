@@ -17,5 +17,15 @@ By visualizing and modeling this relationship, the project seeks to provide insi
 
 <img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/1de38015fb8c6a088af97fa75dc650fd0aedadb8/indigenous_education_mexico/docs/img/map2.png" alt="alt text" width="400" height="300">
 
-## SQL Data Warehouse Project
-Objective Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision making.
+## Modern Data Warehousing with SQL Server
+This project involves the design and implementation of a modern data warehouse using Microsoft SQL Server, encompassing the full data pipeline—from ETL processes (Extract, Transform, Load) to data modeling and analytics. The goal was to build a robust and scalable architecture that enables efficient data integration and insightful analysis.
+
+The project was developed by following the comprehensive YouTube tutorial series by Baraa (available here). Baraa’s extensive and hands-on tutorial walks you through each step of the process in a clear and detailed manner, helping you not only build the solution but truly understand the reasoning behind each component—be it in staging data, designing fact and dimension tables, or building analytical queries and reports.
+
+The final solution includes:
+
+Staging and data cleansing using SQL Server Integration Services (SSIS)
+Dimensional modeling with star schema design
+Implementation of ETL workflows for loading data from raw sources into the warehouse
+Use of SQL Server Analysis Services (SSAS) and SQL queries to generate business insights
+This project provided a solid foundation in practical data warehousing concepts, using real-world examples to reinforce best practices in data architecture and analytics.
