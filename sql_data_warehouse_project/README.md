@@ -1,6 +1,20 @@
-# SQL Data Warehouse Project
+# Modern Data Warehousing with SQL Server
 
-Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
+This project involves the design and implementation of a modern data warehouse using **Microsoft SQL Server**, encompassing the full data pipeline—from ETL processes (Extract, Transform, Load) to data modeling and analytics. The goal was to build a robust and scalable architecture that enables efficient data integration and insightful analysis.
+
+The project was developed by following the comprehensive YouTube tutorial series by Baraa (available here). Baraa’s extensive and hands-on tutorial walks you through each step of the process in a clear and detailed manner, helping you not only build the solution but truly understand the reasoning behind each component—be it in staging data, designing fact and dimension tables, or building analytical queries and reports.
+
+The final solution includes:
+
+Staging and data cleansing using SQL Server Integration Services (SSIS)
+
+Dimensional modeling with star schema design
+
+Implementation of ETL workflows for loading data from raw sources into the warehouse
+
+Use of SQL Server Analysis Services (SSAS) and SQL queries to generate business insights
+
+This project provided a solid foundation in practical data warehousing concepts, using real-world examples to reinforce best practices in data architecture and analytics.
 
 ## 📊 Project Overview
 **Objective** 
