@@ -67,12 +67,11 @@ SELECT
 	ind.PHOG_IND AS population_indigenous_households,
 	CAST(ind.P3YM_HLI AS FLOAT) / NULLIF(pop.POBTOT, 0) * 100 AS perc_indigenous,
 	CAST(ind.P3HLINHE AS FLOAT) / NULLIF(ind.P3YM_HLI, 0) * 100 AS perc_no_spanish,
-    CAST(ind.PHOG_IND AS FLOAT) / NULLIF(pop.POBTOT, 0) * 100 AS perc_household_indigenous,
+    	CAST(ind.PHOG_IND AS FLOAT) / NULLIF(pop.POBTOT, 0) * 100 AS perc_household_indigenous,
 	CASE 
-        WHEN CAST(ind.P3YM_HLI AS FLOAT) / NULLIF(pop.POBTOT, 0) > 0.1 THEN 'High Indigenous'
-        ELSE 'Low Indigenous'
-    END AS group_type
-
+        	WHEN CAST(ind.P3YM_HLI AS FLOAT) / NULLIF(pop.POBTOT, 0) > 0.1 THEN 'High Indigenous'
+        	ELSE 'Low Indigenous'
+    	END AS group_type
 FROM silver.indigenous ind
 LEFT JOIN silver.population pop
 	ON ind.locality_index = pop.locality_index;
@@ -98,7 +97,7 @@ SELECT
 	edu.GRAPROES AS avg_years_of_schooling_over_15,
 	CAST(edu.P15YM_AN AS FLOAT) / NULLIF(pop.P_15YMAS, 0) * 100 AS perc_illiterate,
 	CAST(edu.P15YM_SE AS FLOAT) / NULLIF(pop.P_15YMAS, 0) * 100 AS perc_no_schooling,
-    CAST(edu.P18YM_PB AS FLOAT) / NULLIF(pop.P_18YMAS, 0) * 100 AS perc_higher_ed
+   	CAST(edu.P18YM_PB AS FLOAT) / NULLIF(pop.P_18YMAS, 0) * 100 AS perc_higher_ed
 FROM silver.education edu
 LEFT JOIN silver.population pop
 	ON edu.locality_index = pop.locality_index;
@@ -133,11 +132,11 @@ SELECT
 	ind.PHOG_IND AS population_indigenous_households,
 	CAST(ind.P3YM_HLI AS FLOAT) / NULLIF(pop.POBTOT, 0) * 100 AS perc_indigenous,
 	CAST(ind.P3HLINHE AS FLOAT) / NULLIF(ind.P3YM_HLI, 0) * 100 AS perc_no_spanish,
-    CAST(ind.PHOG_IND AS FLOAT) / NULLIF(pop.POBTOT, 0) * 100 AS perc_household_indigenous,
+    	CAST(ind.PHOG_IND AS FLOAT) / NULLIF(pop.POBTOT, 0) * 100 AS perc_household_indigenous,
 	CASE 
-        WHEN CAST(ind.P3YM_HLI AS FLOAT) / NULLIF(pop.POBTOT, 0) > 0.1 THEN 'High Indigenous'
-        ELSE 'Low Indigenous'
-    END AS group_type,
+        	WHEN CAST(ind.P3YM_HLI AS FLOAT) / NULLIF(pop.POBTOT, 0) > 0.1 THEN 'High Indigenous'
+        	ELSE 'Low Indigenous'
+    	END AS group_type,
 	edu.P15YM_AN AS illiterate_over_15,
 	edu.P15YM_SE AS no_schooling_over_15,
 	edu.P15PRI_CO AS primary_complete_over_15,
