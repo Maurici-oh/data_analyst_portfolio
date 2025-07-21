@@ -37,7 +37,10 @@ By visualizing and modeling this relationship, the project seeks to provide insi
   ├── docs/ 
   │   └── img/
   │   │   ├── map1.png
-  │   │   └── map2.png
+  │   │   ├── map2.png
+  │   │   └── map3.png
+  │   │ 
+  │   ├── Data_catalog_and_tables_description.xlsx
   │   └── INEGI_iter_cpv2020_Data_Catalog.pdf
   │
   ├── scripts/
@@ -63,6 +66,7 @@ By visualizing and modeling this relationship, the project seeks to provide insi
   │       └── init_database.sql
   │
   ├── tableau/
+  │   └── Indigenous_Dashboard.png
   │
   └── README.md
   </pre>
@@ -73,7 +77,7 @@ By visualizing and modeling this relationship, the project seeks to provide insi
 To present the data and insights effectively, I created an interactive Tableau dashboard, available on Tableau Public.   
 [Indigenous Distribution and Education in Mexico](https://public.tableau.com/views/Indigenous_Population_Distribution_and_Education/IndigenousDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/3e5c6d626a374452760efad17a6d5db8806f8523/indigenous_education_mexico/docs/img/Indigenous_Dashboard.png" alt="alt text" width="400" height="300">
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/8bfb7ec72cf114a7d12ed8a5fddefd6754dad3ec/indigenous_education_mexico/Tableau/Indigenous_Dashboard.png" alt="alt text" width="400" height="300">
 
 ## 💡 Findings and Conclusions
 The analysis revealed a clear and concerning correlation: regions with higher concentrations of Indigenous communities (specifically southern states) tend to experience significantly higher rates of illiteracy and a greater proportion of individuals with no formal schooling. This pattern is evident in states such as Oaxaca, Chiapas, and Guerrero. However, Quintana Roo stands out as an exception, with a high concentration of Indigenous communities and one of the highest rates of higher education in the country.
