@@ -12,9 +12,14 @@ The final solution includes:
 
 This project provided a solid foundation in practical data warehousing concepts, using real-world examples to reinforce best practices in data architecture and analytics.
 
-## 📊 Project Overview
-**Objective** 
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision making.
+## 🎯 Objectives
+* Design and implement a modern data warehouse using Microsoft SQL Server to support efficient data integration, storage, and analysis.
+* Understand and apply ETL processes (Extract, Transform, Load) to move and cleanse data from source systems into a structured warehouse environment.
+* Develop a dimensional data model (star schema) that supports analytical queries and reporting, focusing on performance and scalability.
+* Gain hands-on experience with SQL Server Integration Services (SSIS) for automating data loading and transformation workflows.
+* Leverage SQL Server Analysis Services (SSAS) and SQL queries to extract meaningful business insights from the data.
+* Follow best practices in data architecture and warehousing, as demonstrated in Baraa’s detailed tutorial series.
+* Build foundational knowledge in data warehousing concepts that can be applied to real-world business intelligence and analytics scenarios.
 
 ## 📋 Specifications
 
