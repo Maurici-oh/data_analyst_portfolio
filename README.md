@@ -1,5 +1,11 @@
 # Data Analyst Portfolio - Mauricio Ramirez
-This repository showcases a curated collection of data analysis projects that demonstrate my skills in data cleaning, exploration, visualization, and modeling using tools like Python, SQL, Excel, and Tableau.
+
+Hello there!
+
+I'm Mauricio, an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights that drive smart decisions. 
+This repository showcases a collection of data analysis projects that demonstrate my growing skills in **data cleaning**, **exploration**, **visualization**, **statistical analysis**, and **storytelling**.
+
+I created this space to document my learning journey, apply theoretical knowledge to real-world datasets, and continuously sharpen my analytical thinking, using tools like **Python**, **SQL**, **Excel**, and **Tableau**.
 
 
 ## Table of Contents
