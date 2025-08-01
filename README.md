@@ -11,6 +11,7 @@ I created this space to document my learning journey, apply theoretical knowledg
 ## Table of Contents
 - [The Intersection of Indigenous Identity and Educational Attainment in Mexico](#The-Intersection-of-Indigenous-Identity-and-Educational-Attainment-in-Mexico)
 - [Modern Data Warehousing with SQL Server](#SQL-Data-Warehouse-Project)
+- Comparing Inflation Trends Across European Union Countries (2015–2025) - UNDER DEVELOPMENT
 
 
 ---
@@ -35,3 +36,9 @@ The final solution includes:
 * **Dimensional modeling** with star schema design
 * Implementation of **ETL workflows** for loading data from raw sources into the warehouse
 * Use of **SQL Server Analysis Services (SSAS)** and **SQL queries** to generate business insights
+
+---
+
+## Comparing Inflation Trends Across European Union Countries (2015–2025)
+
+Under development...
