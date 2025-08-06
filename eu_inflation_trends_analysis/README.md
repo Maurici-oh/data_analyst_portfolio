@@ -19,8 +19,9 @@ economic resilience.
 
 ## 📋 Specifications
 
-* **Data Source**: The dataset used in this project comes from the Eurostat Harmonised index of consumer prices (HICP) monthly data.  
-[Eurostat open data]([https://www.inegi.org.mx/datosabiertos/](https://ec.europa.eu/eurostat/en/))
+* **Data Source**: The dataset used in this project comes from the Eurostat Harmonised index of consumer prices (HICP) monthly data.
+  
+[Eurostat open data](https://ec.europa.eu/eurostat/en/)
   
 * **Folder Structure**
   <pre>
