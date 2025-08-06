@@ -25,39 +25,12 @@ economic resilience.
 * **Folder Structure**
   <pre>
   indigenous_education_mexico/  
-  ├── docs/ 
-  │   └── img/
-  │   │   ├── map1.png
-  │   │   ├── map2.png
-  │   │   └── map3.png
-  │   │ 
-  │   ├── Data_catalog_and_tables_description.xlsx
-  │   └── INEGI_iter_cpv2020_Data_Catalog.pdf
+  ├── img/ 
+  │   └── chart01.png
   │
-  ├── scripts/
-  │   ├── jupyter_notebooks/  
-  │   │   ├── table_education_cpv2020.ipynb
-  │   │   ├── table_indegenous_cpv2020.ipynb
-  │   │   ├── table_location_cpv2020.ipynb
-  │   │   └── table_population_cpv2020.ipynb
-  │   │
-  │   ├── python/ 
-  │   │   └── sql_to_csv_export.py
-  │   │
-  │   └── sql_queries/ 
-  │       ├── bronze/ 
-  │       │   ├── dll_bronze.sql
-  │       │   └── proc_load_bronze.sql
-  │       ├── silver/ 
-  │       │   ├── dll_silver.sql
-  │       │   └── proc_load_silver.sql
-  │       ├── gold/ 
-  │       │   └── ddl_gold.sql
-  │       │
-  │       └── init_database.sql
-  │
-  ├── tableau/
-  │   └── Indigenous_Dashboard.png
+  ├── EU Inflation Trends Analysis.pdf
+  ├── EU Inflation Trends Analysis.xlsx
+  ├── EU_Inflation_Trends_Analysis.ipynb
   │
   └── README.md
   </pre>
