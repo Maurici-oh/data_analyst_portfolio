@@ -10,7 +10,7 @@ I created this space to document my learning journey, apply theoretical knowledg
 
 ## Table of Contents
 - [The Intersection of Indigenous Identity and Educational Attainment in Mexico](#The-Intersection-of-Indigenous-Identity-and-Educational-Attainment-in-Mexico)
-- [Modern Data Warehousing with SQL Server](#SQL-Data-Warehouse-Project)
+- [Modern Data Warehousing with SQL Server](#Modern-Data-Warehousing-with-SQL-Server)
 - [Comparing Inflation Trends Across European Union Countries (2015–2025)](#Comparing-Inflation-Trends-Across-European-Union-Countries-(2015–2025))
 
 
