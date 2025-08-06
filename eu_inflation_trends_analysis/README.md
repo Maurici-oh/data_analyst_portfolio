@@ -38,7 +38,7 @@ economic resilience.
 ## 📈 Visualuzation 
 The charts and results are displayed in the Power Point file within this folder.
 
-<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/8bfb7ec72cf114a7d12ed8a5fddefd6754dad3ec/indigenous_education_mexico/Tableau/Indigenous_Dashboard.png" alt="alt text" width="400" height="300">
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/e481f1170fbfe16c7f5f00c68835e128a885df9a/eu_inflation_trends_analysis/img/img01.png" alt="alt text" width="400" height="300">
 
 ## 💡 Findings and Conclusions
 The analysis of inflation trends across European Union countries reveals a pronounced spike in inflation around October 2022. The data suggests 
@@ -48,7 +48,7 @@ inflationary pressures by driving up energy and food costs, particularly affecti
 these events formed a dual shock that amplified existing economic vulnerabilities, leading to the sharp inflation peak observed. Understanding these 
 connections underscores the importance of resilience in economic policy and international cooperation to mitigate the effects of future crises.
 
-<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/d702f69228991b618245b81071595504573cf833/indigenous_education_mexico/docs/img/map3.png" alt="alt text" width="400" height="300">
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/213f8b266ba3e3bd4a3c8ebee565ef94759ee88b/eu_inflation_trends_analysis/img/chart02.png" alt="alt text" width="400" height="300">
 
 
 ## 🛠️ Tech Stack
