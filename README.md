@@ -10,8 +10,8 @@ I created this space to document my learning journey, apply theoretical knowledg
 
 ## Table of Contents
 - [The Intersection of Indigenous Identity and Educational Attainment in Mexico](#The-Intersection-of-Indigenous-Identity-and-Educational-Attainment-in-Mexico)
-- [Modern Data Warehousing with SQL Server](#Modern-Data-Warehousing-with-SQL-Server)
 - [Comparing Inflation Trends Across European Union Countries (2015–2025)](#Comparing-Inflation-Trends-Across-European-Union-Countries)
+- [Modern Data Warehousing with SQL Server](#Modern-Data-Warehousing-with-SQL-Server)
 
 
 ---
@@ -23,6 +23,16 @@ Using publicly available census and survey data from the mexican National Instit
 By visualizing and modeling this relationship, the project seeks to provide insights into how ethnicity and language are associated with educational outcomes in Mexico. These insights can inform policymakers, researchers, and social organizations aiming to reduce educational inequality and support the inclusion and empowerment of indigenous populations.
 
 <img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/1de38015fb8c6a088af97fa75dc650fd0aedadb8/indigenous_education_mexico/docs/img/map2.png" alt="alt text" width="400" height="300">
+
+---
+
+## Comparing Inflation Trends Across European Union Countries
+
+The objective of this project is to analyze and visualize the evolution of inflation across European Union (EU) countries over time, focusing on the Harmonised Index of Consumer Prices (HICP). This study will identify long-term and short-term trends in inflation, highlight major economic shifts, and uncover patterns that indicate stability or volatility among member states.​
+
+A special emphasis will be placed on the impact of the COVID-19 pandemic on inflation dynamics — examining how different economies were affected during 2020–2022, the nature and duration of inflationary pressures, and the trajectory of recovery. The study will compare inflation trends before, during, and after the pandemic to assess economic resilience.
+
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/09231b9f112d6ddc2008087ef40337ab67a016e4/eu_inflation_trends_analysis/img/chart01.png" alt="alt text" width="400" height="300">
 
 ---  
 
@@ -37,12 +47,4 @@ The final solution includes:
 * Implementation of **ETL workflows** for loading data from raw sources into the warehouse
 * Use of **SQL Server Analysis Services (SSAS)** and **SQL queries** to generate business insights
 
----
 
-## Comparing Inflation Trends Across European Union Countries
-
-The objective of this project is to analyze and visualize the evolution of inflation across European Union (EU) countries over time, focusing on the Harmonised Index of Consumer Prices (HICP). This study will identify long-term and short-term trends in inflation, highlight major economic shifts, and uncover patterns that indicate stability or volatility among member states.​
-
-A special emphasis will be placed on the impact of the COVID-19 pandemic on inflation dynamics — examining how different economies were affected during 2020–2022, the nature and duration of inflationary pressures, and the trajectory of recovery. The study will compare inflation trends before, during, and after the pandemic to assess economic resilience.
-
-<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/09231b9f112d6ddc2008087ef40337ab67a016e4/eu_inflation_trends_analysis/img/chart01.png" alt="alt text" width="400" height="300">
