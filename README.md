@@ -11,7 +11,7 @@ I created this space to document my learning journey, apply theoretical knowledg
 ## Table of Contents
 - [The Intersection of Indigenous Identity and Educational Attainment in Mexico](#The-Intersection-of-Indigenous-Identity-and-Educational-Attainment-in-Mexico)
 - [Modern Data Warehousing with SQL Server](#SQL-Data-Warehouse-Project)
-- Comparing Inflation Trends Across European Union Countries (2015–2025) - UNDER DEVELOPMENT
+- [Comparing Inflation Trends Across European Union Countries (2015–2025)](#Comparing-Inflation-Trends-Across-European-Union-Countries-(2015–2025))
 
 
 ---
@@ -41,4 +41,8 @@ The final solution includes:
 
 ## Comparing Inflation Trends Across European Union Countries (2015–2025)
 
-Under development...
+The objective of this project is to analyze and visualize the evolution of inflation across European Union (EU) countries over time, focusing on the Harmonised Index of Consumer Prices (HICP). This study will identify long-term and short-term trends in inflation, highlight major economic shifts, and uncover patterns that indicate stability or volatility among member states.​
+
+A special emphasis will be placed on the impact of the COVID-19 pandemic on inflation dynamics — examining how different economies were affected during 2020–2022, the nature and duration of inflationary pressures, and the trajectory of recovery. The study will compare inflation trends before, during, and after the pandemic to assess economic resilience.
+
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/09231b9f112d6ddc2008087ef40337ab67a016e4/eu_inflation_trends_analysis/img/chart01.png" alt="alt text" width="400" height="300">
