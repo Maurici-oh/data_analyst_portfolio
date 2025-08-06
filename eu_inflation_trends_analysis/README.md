@@ -1,4 +1,4 @@
-# Comparing Inflation Trends Across European Union Countries 📈💶
+# 💶 Comparing Inflation Trends Across European Union Countries 📈
 
 The objective of this project is to analyze and visualize the **evolution of inflation across European Union (EU) 
 countries over time**, focusing on the Harmonised Index of Consumer Prices (HICP). This study will identify long-term
@@ -15,7 +15,7 @@ economic resilience.
 ## 📊 Project Outputs
 * **Jupyter Notebooks** for importing raw data from the Eurostat website, preprocess it and export ir as an xslx file.
 * **Excel File** containing the charts and calculations for analysis.
-* **Power Point Slides** for showcasing the results.
+* **Power Point Slides (PDF)** for showcasing the results.
 
 ## 📋 Specifications
 
