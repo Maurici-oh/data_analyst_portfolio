@@ -10,7 +10,7 @@ different economies were affected during 2020–2022, the nature and duration of
 trajectory of recovery. The study will compare inflation trends before, during, and after the pandemic to assess
 economic resilience.
 
-<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/1de38015fb8c6a088af97fa75dc650fd0aedadb8/indigenous_education_mexico/docs/img/map2.png" alt="alt text" width="400" height="300">
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/09231b9f112d6ddc2008087ef40337ab67a016e4/eu_inflation_trends_analysis/img/chart01.png" alt="alt text" width="400" height="300">
 
 ## 📊 Project Outputs
 * **Jupyter Notebooks** for importing raw data from the Eurostat website, preprocess it and export ir as an xslx file.
