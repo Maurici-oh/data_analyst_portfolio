@@ -24,7 +24,7 @@ economic resilience.
   
 * **Folder Structure**
   <pre>
-  indigenous_education_mexico/  
+  eu_inflation_trends_analysis/  
   ├── img/ 
   │   └── chart01.png
   │
