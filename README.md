@@ -35,14 +35,18 @@ The objective of this project is to analyze and visualize the evolution of infla
 
 A special emphasis will be placed on the impact of the COVID-19 pandemic on inflation dynamics — examining how different economies were affected during 2020–2022, the nature and duration of inflationary pressures, and the trajectory of recovery. The study will compare inflation trends before, during, and after the pandemic to assess economic resilience.
 
-<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/09231b9f112d6ddc2008087ef40337ab67a016e4/eu_inflation_trends_analysis/img/chart01.png" alt="alt text" width="400" height="300">
+<p align="center">
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/09231b9f112d6ddc2008087ef40337ab67a016e4/eu_inflation_trends_analysis/img/chart01.png" alt="alt text" width="700" height="600" />
+</p>
 
 ---
 CSV Data Preprocessing App
 
 Streamlit app designed to perform comprehensive data preprocessing for machine learning workflows. It handles tasks such as missing value imputation, encoding categorical variables, feature scaling, and outlier detection. The tool provides an interactive interface for users to upload datasets, apply transformations, and export the cleaned data for modeling. The project emphasizes automation, reproducibility, and ease of use for both beginners and data professionals.
 
-<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/99b378ff7b96edb0dc2e35879d3a523822108cf3/csv_data_preprocessing_app/screenshots/preprocessing_app.png" alt="alt text" width="400" height="300">
+<p align="center">
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/99b378ff7b96edb0dc2e35879d3a523822108cf3/csv_data_preprocessing_app/screenshots/preprocessing_app.png" alt="alt text" width="700" height="600">
+</p>
 
 ---  
 ## Modern Data Warehousing with SQL Server
