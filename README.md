@@ -12,6 +12,7 @@ I created this space to document my learning journey, apply theoretical knowledg
 - [The Intersection of Indigenous Identity and Educational Attainment in Mexico](#The-Intersection-of-Indigenous-Identity-and-Educational-Attainment-in-Mexico)
 - [Comparing Inflation Trends Across European Union Countries (2015–2025)](#Comparing-Inflation-Trends-Across-European-Union-Countries)
 - [Modern Data Warehousing with SQL Server](#Modern-Data-Warehousing-with-SQL-Server)
+- [CSV Data Preprocessing App](#CSV-Data-Preprocessing-App)
 
 
 ---
@@ -34,8 +35,14 @@ A special emphasis will be placed on the impact of the COVID-19 pandemic on infl
 
 <img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/09231b9f112d6ddc2008087ef40337ab67a016e4/eu_inflation_trends_analysis/img/chart01.png" alt="alt text" width="400" height="300">
 
----  
+---
+CSV Data Preprocessing App
 
+Streamlit app designed to perform comprehensive data preprocessing for machine learning workflows. It handles tasks such as missing value imputation, encoding categorical variables, feature scaling, and outlier detection. The tool provides an interactive interface for users to upload datasets, apply transformations, and export the cleaned data for modeling. The project emphasizes automation, reproducibility, and ease of use for both beginners and data professionals.
+
+<img src="https://github.com/Maurici-oh/data_analyst_portfolio/blob/99b378ff7b96edb0dc2e35879d3a523822108cf3/csv_data_preprocessing_app/screenshots/preprocessing_app.png" alt="alt text" width="400" height="300">
+
+---  
 ## Modern Data Warehousing with SQL Server
 This project involves the design and implementation of a modern data warehouse using **Microsoft SQL Server**, encompassing the full data pipeline—from **ETL processes** (Extract, Transform, Load) to data modeling and analytics. The goal was to build a robust and scalable architecture that enables efficient data integration and insightful analysis.
 
@@ -46,5 +53,4 @@ The final solution includes:
 * **Dimensional modeling** with star schema design
 * Implementation of **ETL workflows** for loading data from raw sources into the warehouse
 * Use of **SQL Server Analysis Services (SSAS)** and **SQL queries** to generate business insights
-
 
